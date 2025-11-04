@@ -1,5 +1,0 @@
-variable "token" {
-
-    type=string
-  
-}
